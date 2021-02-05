@@ -1,5 +1,5 @@
 <h1 align="center">
-Numerical Analysis of the impact of strong winds on roof of a WareHouse
+Numerical Analysis of the impact of strong winds on the roof of a WareHouse
 </h1>
 
 <p align="center">
