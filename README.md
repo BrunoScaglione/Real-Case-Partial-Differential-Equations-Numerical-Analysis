@@ -12,7 +12,7 @@ This project doesn't use any tools from matlab for solving differential equation
 
 ## Requirements
 
-Having **MatLab** installed
+- **MatLab**
 
 ## Getting Started
 
